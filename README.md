@@ -127,7 +127,7 @@ footer {
   </div>
 
   <div class="menu-item">
-    <img src="Screenshot 2025-10-11 141949.png" alt="Soup">
+    <img src= "Screenshot 2025-10-11 141949.png" alt="Soup">
     <h3>Tom Yum Soup</h3>
     <p>Rs.25.0</p>
   </div>
@@ -137,7 +137,8 @@ footer {
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-06 135235-1.png>)
+
+![alt text](<Screenshot 2025-10-11 141949.png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
